@@ -14,6 +14,7 @@
 		398C97351CA59FF6001A595E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 398C97331CA59FF6001A595E /* LaunchScreen.storyboard */; };
 		398C973E1CA5A023001A595E /* NationalPark.m in Sources */ = {isa = PBXBuildFile; fileRef = 398C973D1CA5A023001A595E /* NationalPark.m */; };
 		398C97411CA5A179001A595E /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 398C97401CA5A179001A595E /* RootViewController.m */; };
+		398C97441CA5AE59001A595E /* NationalParkDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 398C97431CA5AE59001A595E /* NationalParkDetailViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		398C973D1CA5A023001A595E /* NationalPark.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NationalPark.m; path = ../NationalPark.m; sourceTree = "<group>"; };
 		398C973F1CA5A179001A595E /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		398C97401CA5A179001A595E /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		398C97421CA5AE59001A595E /* NationalParkDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NationalParkDetailViewController.h; sourceTree = "<group>"; };
+		398C97431CA5AE59001A595E /* NationalParkDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NationalParkDetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +68,8 @@
 				398C97291CA59FF6001A595E /* AppDelegate.m */,
 				398C973F1CA5A179001A595E /* RootViewController.h */,
 				398C97401CA5A179001A595E /* RootViewController.m */,
+				398C97421CA5AE59001A595E /* NationalParkDetailViewController.h */,
+				398C97431CA5AE59001A595E /* NationalParkDetailViewController.m */,
 				398C972E1CA59FF6001A595E /* Main.storyboard */,
 				398C973C1CA5A023001A595E /* NationalPark.h */,
 				398C973D1CA5A023001A595E /* NationalPark.m */,
@@ -154,6 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				398C97441CA5AE59001A595E /* NationalParkDetailViewController.m in Sources */,
 				398C97411CA5A179001A595E /* RootViewController.m in Sources */,
 				398C972A1CA59FF6001A595E /* AppDelegate.m in Sources */,
 				398C97271CA59FF6001A595E /* main.m in Sources */,
