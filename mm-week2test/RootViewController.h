@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RootViewController.h
 //  mm-week2test
 //
 //  Created by Christopher Serra on 3/25/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RootViewController : UIViewController
 
 @end
-
